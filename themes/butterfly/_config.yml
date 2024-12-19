@@ -23,7 +23,7 @@ nav:
   #   Movie: /movies/ || fas fa-video
 
 menu:
-  主页: / || fas fa-home
+  Home: / || fas fa-home
   文章一览: /archives/ || fas fa-archive
   属性标签: /tags/ || fas fa-tags
   游戏类别: /categories/ || fas fa-folder-open
