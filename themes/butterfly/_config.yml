@@ -76,7 +76,7 @@ disable_top_img: false
 default_top_img: 
 
 # The banner image of index page
-index_img: /img/tanukihime.jpg
+index_img: /img/pompokohime.png
 
 # The banner image of archive page
 archive_img:
@@ -102,7 +102,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: /img/tanukihime.jpg
+background: pink
 
 cover:
   # Disable the cover or not
