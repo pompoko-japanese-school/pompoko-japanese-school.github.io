@@ -1,0 +1,25 @@
+/* typed.js のテキストの色を変更 */
+.typed-cursor {
+    color: pink; /* カーソルの色 */
+  }
+
+  nav .site-page {
+    font-size: 0.9em !important;
+}
+
+#recent-posts .recent-post-item > .recent-post-info > .article-meta-wrap {
+    display: none !important;
+}
+
+#recent-posts .recent-post-item > .recent-post-info > .article-title {
+    text-align: center;
+    font-weight: bold; /* 数値(100～900)や lighter, normal, bold が指定可能 */
+    background-color: #835151;
+    color: #FFEACA;
+    font-size: 2.2em;
+
+}
+
+#recent-posts .recent-post-item > .recent-post-info > .article-title:hover {
+    color: #FFBCBC; /* 好きな色コードに変更 */
+}
