@@ -4,7 +4,7 @@ if hexo-config('preloader.enable') && hexo-config('preloader.source') == 1
     z-index: 1000
     width: 50%
     height: 100%
-    background-color: var(--preloader-bg)
+    background-color: #FFCCE1
 
   #loading-box
     .loading-left-bg
@@ -28,7 +28,7 @@ if hexo-config('preloader.enable') && hexo-config('preloader.source') == 1
         padding: 3px
         width: 115px
         height: 115px
-        background: #ffab91
+        background: #FFF5D7
         animation: configure-clockwise 3s ease-in-out 0s infinite alternate
 
       .configure-border-2
@@ -36,19 +36,19 @@ if hexo-config('preloader.enable') && hexo-config('preloader.source') == 1
         padding: 3px
         width: 115px
         height: 115px
-        background: rgb(63, 249, 220)
+        background: #F2F9FF
         transform: rotate(45deg)
         animation: configure-xclockwise 3s ease-in-out 0s infinite alternate
 
       .loading-word
         position: absolute
-        color: var(--preloader-color)
+        color: white
         font-size: 16px
 
       .configure-core
         width: 100%
         height: 100%
-        background-color: var(--preloader-bg)
+        background-color: #835151
 
     &.loaded
       .loading-left-bg

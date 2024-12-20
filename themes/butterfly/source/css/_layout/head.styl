@@ -7,6 +7,42 @@
   background-repeat: no-repeat
   transition: all .5s
 
+
+  // 背景画像をPC用とモバイル用に分ける
+  background-image: url('/img/pompoko.png') !important // PC用の画像
+  background-size: cover !important
+  background-position: center center !important
+
+  @media screen and (max-width: 1250px)
+    background-image: url('/img/pompoko.png') !important // Small PC用の画像
+    background-size: cover !important
+    background-position: center center !important
+
+  @media screen and (max-width: 1000px)
+    background-image: url('/img/pompokohime.png') !important // タブレット用の画像
+    background-size: cover !important
+    background-position: top center !important
+
+  @media screen and (max-width: 768px)
+    background-image: url('/img/mobile_background.png') !important // スマホ用の画像
+    background-size: cover !important
+    background-position: bottom center !important
+
+  // 背景画像をPC用とモバイル用に分ける
+  /*
+  background-image: url('/img/pompokohime0.png') !important // PC用の画像
+  background-size: cover !important
+
+  @media screen and (max-width: 768px)
+    //background-image: url('img/island_miku.jpg') !important // モバイル用の画像
+    background-image: url('/img/pompokohime0.png') !important // モバイル用の画像
+    
+    background-size: cover !important
+    background-position: center center !important
+  */
+
+
+
   if hexo-config('mask.header')
     &:not(.not-top-img):before
       position: absolute
