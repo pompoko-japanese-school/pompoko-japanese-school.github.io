@@ -16,6 +16,8 @@ nav:
   # Whether to fix navigation bar
   fixed: true
 
+
+
 #menu:
   # Home: / || fas fa-home
   # List||fas fa-list:
@@ -164,6 +166,12 @@ subtitle:
   # Customize typed.js
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:
+    strings: ["Learn Japanese 1-on-1 with certified native Japanese teachers", "Free trial lessons available anytime!"] # 表示する文字列
+    typeSpeed: 66  # タイピング速度（ミリ秒）
+    backSpeed: 30  # バックスペース速度（ミリ秒）
+    loop: true     # 文字列を繰り返すかどうか
+    backDelay: 1000 # バックスペース後に次の文字列に進むまでの待ち時間（ミリ秒）
+    startDelay: 500 # タイピング開始までの遅延時間（ミリ秒）
   # Source - Call the third-party service API (Chinese only)
   # It will show the source first, then show the content of sub
   # Choose: false/1/2/3
@@ -211,7 +219,7 @@ toc:
   scroll_percent: true
 
 post_copyright:
-  enable: true
+  enable: false
   decode: false
   author_href:
   license: CC BY-NC-SA 4.0
@@ -1044,6 +1052,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/custom.css">
   bottom:
     # - <script src="xxxx"></script>
 
