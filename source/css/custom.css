@@ -48,5 +48,13 @@ nav .site-page {
 
 #page-header #site-subtitle {
     color: #FFEACA;
-    font-size: 1.5em;
+    font-size: 2em;
+}
+
+/* custom.css に追加 */
+#page-header #site-title {
+    font-size: 3em; /* フォントサイズを調整 */
+    font-weight: bold; /* 太字にする */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* テキストに影をつける */
+    text-align: center; /* タイトルを中央寄せ */
 }
