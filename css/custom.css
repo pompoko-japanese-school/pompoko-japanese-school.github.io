@@ -3,9 +3,9 @@
     color: pink; /* カーソルの色 */
   }
 
-  nav .site-page {
+nav .site-page {
     font-size: 0.9em !important;
-}
+  }
 
 #recent-posts .recent-post-item > .recent-post-info > .article-meta-wrap {
     display: none !important;
@@ -44,4 +44,9 @@
     -webkit-line-clamp: 2; /* このまま維持 */
     font-size: 1.1em; /* フォントサイズを大きく変更 */
     line-height: 1.5; /* 行間を調整して見やすく */
+}
+
+#page-header #site-subtitle {
+    color: #FFEACA;
+    font-size: 1.5em;
 }
