@@ -15,6 +15,8 @@ description:
 </style>
 # <p class="custom-title">Join Our Teaching Team</p>
 
+---
+
 {% asset_img pompokohime.png %}
 
 Are you a certified Japanese teacher looking for a flexible and rewarding teaching opportunity? Pompoko Japanese School is expanding, and we’d love to have you on board!

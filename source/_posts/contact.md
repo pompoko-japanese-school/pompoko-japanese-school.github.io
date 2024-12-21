@@ -14,9 +14,11 @@ description:
 </style>
 # <p class="custom-title">Join Our Community on Discord</p>
 
-{% asset_img pompokohime3.png %}
-
 ---
+
+<br>
+
+{% asset_img pompokohime3.png %}
 
 ## Connect with Learners Worldwide
 Join our Discord server to:

@@ -15,9 +15,11 @@ description:
 
 # <p class="custom-title">Why Choose Pompoko Japanese School?</p>
 
-{% asset_img pompokohime2.png %}
-
 ---
+
+<br>
+
+{% asset_img pompokohime2.png %}
 
 ## Certified and Professional Teachers
 All our teachers are native Japanese speakers with teaching certifications. We guarantee high-quality lessons to help you achieve your language goals.
