@@ -1,11 +1,22 @@
 ---
-title: "Join Our Community on Discord"
+title: "Join Our Community"
 date: 2022-01-07
 cover: /img/pompokohime3.png
+description: 
+	•	Connect with fellow learners <br>
+	•	Practice Japanese together <br>
+	•	Join events and challenges <br>
 type: "page"
 ---
+<style>
+  .custom-title {
+    text-align: center;
+  }
+</style>
 
-# Join Our Community on Discord
+# <p class="custom-title">Join Our Community on Discord</p>
+
+---
 
 ## Connect with Learners Worldwide
 Join our Discord server to:
@@ -13,9 +24,16 @@ Join our Discord server to:
 - Ask questions and get advice from native Japanese speakers.
 - Participate in community events and challenges.
 
+<p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Join us on Discord! ↓</span></p>
+
+{% btn 'https://discord.gg/link',Discord,far fa-hand-point-right, outline pink center larger %}
+<br>
+
+---
+
 ## Additional Support
 If you prefer private communication, you can reach us through:
 - LINE: [田中’s LINE ID]
 - Contact Form: [Contact Us](/contact)
 
-[Join Us on Discord](https://discord.gg/link)
+

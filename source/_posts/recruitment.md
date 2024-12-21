@@ -1,11 +1,21 @@
 ---
-title: "Join Our Teaching Team"
+title: "Join Our Team"
 date: 2022-01-01
 cover: /img/pompokohime.png
 type: "page"
+description: 
+    •	Teach students worldwide <br>
+    •	Flexible hours, rewarding work <br>
+    •   Apply on WeChat&#58; hiroyuki5867 
 ---
+<style>
+  .custom-title {
+    text-align: center;
+  }
+</style>
 
-# Join Our Teaching Team
+# <p class="custom-title">Join Our Teaching Team</p>
+
 
 Are you a certified Japanese teacher looking for a flexible and rewarding teaching opportunity? Pompoko Japanese School is expanding, and we’d love to have you on board!
 

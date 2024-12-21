@@ -3,9 +3,27 @@ title: "Learn with Pompoko"
 date: 2022-01-11
 cover: /img/pompokohime1.png
 type: "page"
+description: 	
+    •	Certified native Japanese teachers <br>
+	•	Courses for all levels <br>
+	•	Free trial lessons available!
 ---
 
-# Your Japanese Learning Journey with Pompoko
+<style>
+  .custom-title {
+    text-align: center;
+  }
+</style>
+
+# <p class="custom-title">Learn with Pompoko</p>
+
+<p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
+
+{% btn 'https://butterfly.js.org/',Book,far fa-hand-point-right, outline pink center larger %}
+
+<br>
+
+---
 
 At Pompoko Japanese School, we guide you every step of the way to achieve your Japanese language goals. Here’s what you can expect:
 
@@ -48,6 +66,8 @@ Whether you’re just starting out or looking to polish your advanced skills, we
 
 Let’s make your Japanese learning journey enjoyable and successful!
 
-[Book Your Free Trial Lesson Today](/contact)
+<p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
+
+{% btn 'https://butterfly.js.org/',Book,far fa-hand-point-right, outline pink center larger %}
 
 

@@ -1,11 +1,22 @@
 ---
-title: "Why Choose Pompoko?"
+title: "Why Pompoko?"
 date: 2022-01-10
 cover: /img/pompokohime2.png
+description: 
+	•	Flexible scheduling <br>
+	•	Personalized learning plans <br>
+	•	Trusted by students worldwide <br>
 type: "page"
 ---
+<style>
+  .custom-title {
+    text-align: center;
+  }
+</style>
 
-# Why Choose Pompoko Japanese School?
+# <p class="custom-title">Why Choose Pompoko Japanese School?</p>
+
+---
 
 ## Certified and Professional Teachers
 All our teachers are native Japanese speakers with teaching certifications. We guarantee high-quality lessons to help you achieve your language goals.
@@ -22,4 +33,6 @@ Each student receives a custom learning plan tailored to their goals, such as pa
 ## Start Your Journey Today
 Our teachers will guide you every step of the way, ensuring your success and satisfaction.
 
-[Get Started with a Free Trial](/free-trial)
+<p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
+
+{% btn 'https://butterfly.js.org/',Book,far fa-hand-point-right, outline pink center larger %}

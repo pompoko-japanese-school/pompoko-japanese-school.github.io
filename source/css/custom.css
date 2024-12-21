@@ -41,11 +41,15 @@ nav .site-page {
 }
 
 #recent-posts .recent-post-item > .recent-post-info > .content {
-    -webkit-line-clamp: 2; /* このまま維持 */
-    font-size: 1.1em; /* フォントサイズを大きく変更 */
-    line-height: 1.5; /* 行間を調整して見やすく */
+    /*-webkit-line-clamp: 2; /* このまま維持 */
+    font-size: 1.3em; /* フォントサイズを大きく変更 */
+    line-height: 2; /* 行間を調整して見やすく */
+    font-weight: bold;
 }
 
+#recent-posts .recent-post-item >.recent-post-info > .content {
+    -webkit-line-clamp: 3;
+}
 #page-header #site-subtitle {
     color: #FFEACA;
     font-size: 2em;
@@ -53,8 +57,30 @@ nav .site-page {
 
 /* custom.css に追加 */
 #page-header #site-title {
-    font-size: 3em; /* フォントサイズを調整 */
+    font-size: 3.2em; /* フォントサイズを調整 */
     font-weight: bold; /* 太字にする */
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* テキストに影をつける */
     text-align: center; /* タイトルを中央寄せ */
 }
+
+#recent-posts .recent-post-item {
+    height: 19em; /* 任意の高さに変更 */
+}
+
+.container .btn-beautify.outline {
+    display: block;
+    border: 1px solid transparent;
+    border-color: #F08FC0;
+    background-color: transparent;
+    color: #F08FC0;
+    width: 39%; /* 必要な幅を設定 */
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.3em;
+}
+.container .btn-beautify.outline:hover {
+    background-color: pink;
+}
+
+
+
