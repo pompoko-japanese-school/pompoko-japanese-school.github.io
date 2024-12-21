@@ -111,7 +111,7 @@ nav .site-page {
     #recent-posts .recent-post-item > .recent-post-info > .content {
       font-size: 1em; /* スマホ画面用のコンテンツフォントサイズ */
       line-height: 1.8; /* 行間を調整 */
-      font-weight: normal; /* スマホで太字を軽減 */
+      font-weight: bold; /* スマホで太字を軽減 */
     }
   }
 
