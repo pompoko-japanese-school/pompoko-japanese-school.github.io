@@ -20,7 +20,7 @@ description:
 
 <p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
 
-{% btn 'https://butterfly.js.org/',Book,far fa-hand-point-right, outline pink center larger %}
+{% btn 'https://docs.google.com/forms/d/e/1FAIpQLSd7ttmCTAssBmk2sb8GB2Okw6wZtaUl5kMs7xVAny3xIgbwbw/viewform?usp=dialog',Book,far fa-hand-point-right, outline pink center larger %}
 
 <br>
 
@@ -69,6 +69,6 @@ Let’s make your Japanese learning journey enjoyable and successful!
 
 <p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
 
-{% btn 'https://butterfly.js.org/',Book,far fa-hand-point-right, outline pink center larger %}
+{% btn 'https://docs.google.com/forms/d/e/1FAIpQLSd7ttmCTAssBmk2sb8GB2Okw6wZtaUl5kMs7xVAny3xIgbwbw/viewform?usp=dialog',Book,far fa-hand-point-right, outline pink center larger %}
 
 
