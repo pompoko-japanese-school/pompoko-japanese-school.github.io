@@ -86,4 +86,32 @@ nav .site-page {
     display: none;
 }
 
+#pagination .pagination-related .info-2 .info-item-1 {
+    -webkit-line-clamp: 3;
+}
+
+/* スマホ画面用のスタイル */
+@media screen and (max-width: 768px) {
+    #page-header #site-subtitle {
+      font-size: 1.5em; /* スマホ画面用のサブタイトルフォントサイズ */
+    }
+  
+    #page-header #site-title {
+      font-size: 2.5em; /* スマホ画面用のタイトルフォントサイズ */
+    }
+  
+    #recent-posts .recent-post-item > .recent-post-info > .article-title {
+      font-size: 1.5em; /* スマホ画面用の記事タイトルフォントサイズ */
+      text-align: center;
+      font-weight: bold;
+      background-color: #835151;
+      color: #FFEACA;
+    }
+  
+    #recent-posts .recent-post-item > .recent-post-info > .content {
+      font-size: 1em; /* スマホ画面用のコンテンツフォントサイズ */
+      line-height: 1.8; /* 行間を調整 */
+      font-weight: normal; /* スマホで太字を軽減 */
+    }
+  }
 
