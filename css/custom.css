@@ -82,5 +82,8 @@ nav .site-page {
     background-color: pink;
 }
 
+#pagination .page-number.current {
+    display: none;
+}
 
 
