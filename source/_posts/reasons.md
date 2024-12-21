@@ -1,12 +1,11 @@
 ---
 title: "Why Pompoko?"
 date: 2022-01-10
-cover: /img/pompokohime2.png
+cover: /img/pompokohime2.jpg
 description: 
 	•	Flexible scheduling <br>
 	•	Personalized learning plans <br>
 	•	Trusted by students worldwide <br>
-type: "page"
 ---
 <style>
   .custom-title {
@@ -14,6 +13,7 @@ type: "page"
   }
 </style>
 
+{% asset_img pompokohime2.png %}
 # <p class="custom-title">Why Choose Pompoko Japanese School?</p>
 
 ---

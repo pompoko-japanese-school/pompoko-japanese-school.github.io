@@ -24,16 +24,25 @@ nav:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
 
+# menu:
+#   Home: / || fas fa-home
+#   Courses: /archives/ || fas fa-archive
+#   Free Trial Lesson: /tags/ || fas fa-tags
+#   #游戏类别: /categories/ || fas fa-folder-open
+#   About us||fas fa-list:
+#     音乐: /music/ || fas fa-music
+#     图片: /movies/ || fas fa-video
+#   Contact us: /link/ || fas fa-link
+#   Recruitment: /about/ || fas fa-heart
+
 menu:
   Home: / || fas fa-home
-  Courses: /archives/ || fas fa-archive
-  Free Trial Lesson: /tags/ || fas fa-tags
-  #游戏类别: /categories/ || fas fa-folder-open
-  About us||fas fa-list:
-    音乐: /music/ || fas fa-music
-    图片: /movies/ || fas fa-video
-  Contact us: /link/ || fas fa-link
-  Recruitment: /about/ || fas fa-heart
+  Free Trial Lesson: https://docs.google.com/forms/d/e/<Your-Google-Form-ID>/viewform || fas fa-tags
+  Courses: /lessons/ || fas fa-book
+  Reasons: /reasons/ || fas fa-thumbs-up
+  Community: /contact/ || fas fa-comments
+  Recruitment: /recruitment/ || fas fa-users
+
 
 # --------------------------------------
 # Code Blocks Settings
@@ -78,7 +87,7 @@ disable_top_img: false
 default_top_img: 
 
 # The banner image of index page
-index_img: /img/pompokohime_ex.png
+index_img: /img/pompokohime_original.png
 
 # The banner image of archive page
 archive_img:
@@ -303,9 +312,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-discord
       text: Join us on Discord
-      link: https://github.com/xxxxxx
+      link: https://discord.gg/KpCQJKSTYS
   card_announcement:
     enable: true
     content: Start Your Japanese Journey for Free!

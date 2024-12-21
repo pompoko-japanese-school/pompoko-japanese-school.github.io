@@ -1,7 +1,7 @@
 ---
 title: "Join Our Team"
 date: 2022-01-01
-cover: /img/pompokohime.png
+cover: /img/pompokohime.jpg
 type: "page"
 description: 
     •	Teach students worldwide <br>
@@ -13,6 +13,8 @@ description:
     text-align: center;
   }
 </style>
+
+{% asset_img pompokohime.png %}
 
 # <p class="custom-title">Join Our Teaching Team</p>
 

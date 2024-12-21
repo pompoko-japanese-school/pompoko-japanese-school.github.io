@@ -1,12 +1,11 @@
 ---
 title: "Learn with Pompoko"
 date: 2022-01-11
-cover: /img/pompokohime1.png
-type: "page"
+cover: /img/pompokohime1.jpg
 description: 	
-    •	Certified native Japanese teachers <br>
-	•	Courses for all levels <br>
-	•	Free trial lessons available!
+    •	Courses for all levels <br>
+    •	Free trial lessons available! <br>
+    •	Certified native Japanese teachers 
 ---
 
 <style>
@@ -14,6 +13,8 @@ description:
     text-align: center;
   }
 </style>
+
+{% asset_img "pompokohime1.png" %}
 
 # <p class="custom-title">Learn with Pompoko</p>
 
