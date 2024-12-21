@@ -13,8 +13,9 @@ description:
   }
 </style>
 
-{% asset_img pompokohime2.png %}
 # <p class="custom-title">Why Choose Pompoko Japanese School?</p>
+
+{% asset_img pompokohime2.png %}
 
 ---
 

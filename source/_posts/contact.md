@@ -12,8 +12,9 @@ description:
     text-align: center;
   }
 </style>
-{% asset_img pompokohime3.png %}
 # <p class="custom-title">Join Our Community on Discord</p>
+
+{% asset_img pompokohime3.png %}
 
 ---
 

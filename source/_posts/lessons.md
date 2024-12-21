@@ -14,9 +14,9 @@ description:
   }
 </style>
 
-{% asset_img "pompokohime1.png" %}
-
 # <p class="custom-title">Learn with Pompoko</p>
+
+{% asset_img "pompokohime1.png" %}
 
 <p class="custom-title"><span style="font-size: 150%; color: #F08FC0; ">↓ Book Your Free Trial Lesson Today! ↓</span></p>
 
