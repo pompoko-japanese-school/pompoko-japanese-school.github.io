@@ -38,10 +38,17 @@ At Pompoko Japanese School, we guide you every step of the way to achieve your J
 
 ### Tailored Courses for All Levels
 Whether you’re just starting out or looking to polish your advanced skills, we have a course for you:
-- **Beginner Class**: Learn Hiragana, Katakana, and basic sentence structures. Start speaking from day one to build a strong foundation.
-- **Pre-Intermediate Class**: Bridge the gap between beginner and intermediate with conversation practice, Japanese videos, and reading materials.
-- **Intermediate Class**: Choose your favorite topics (e.g., anime or travel) and practice one-on-one conversations with grammar corrections and vocabulary expansion.
-- **Business Japanese**: Master honorific language and business etiquette with experienced professionals who have worked in Japanese companies.
+- **Beginner Class**: 
+Start with learning Hiragana and Katakana, followed by beginner-level textbooks. 
+Through speaking practice from the very beginning, you’ll learn verbs, adjectives, and nouns, ensuring that you avoid becoming a “mute Japanese speaker” when you reach the intermediate level.
+- **Pre-Intermediate Class**: 
+Once you complete the beginner level, you will read intermediate textbooks with your teacher while practicing conversation. 
+You will also watch Japanese videos and read news articles to strengthen your application skills, bridging the gap between beginner and intermediate levels.
+- **Intermediate Class**: 
+If you can engage in free conversation, you’ll have one-on-one discussions with your teacher on a chosen theme each session.
+These are not just casual chats—the teacher will correct your pronunciation and grammar mistakes while helping you expand your vocabulary. You can pick any topic you like, such as anime or travel!
+- **Business Japanese**: 
+Designed for those aiming to work at Japanese companies, this course focuses on learning honorific language and Japanese business etiquette. Lessons are taught by experienced teachers who have worked for Japanese companies for many years. Let us help you navigate your professional life in Japan!
 
 ---
 

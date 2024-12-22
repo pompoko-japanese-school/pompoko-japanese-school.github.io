@@ -87,7 +87,7 @@ disable_top_img: false
 default_top_img: 
 
 # The banner image of index page
-index_img: /img/pompokohime_original.png
+index_img: /img/pompokohime_original.jpg
 
 # The banner image of archive page
 archive_img:
@@ -286,11 +286,13 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 
-  custom_text:
+    since: 2021 # 設立年
+  custom_text: >
+    <strong>ARK Network LLC</strong><br>
+    Location: Kobayashi Mansion 206, 47-1 Nakacho, Kodaira City, Tokyo<br>
+    Email: <a href="mailto:hiroyukitanaka_suou@live.jp">hiroyukitanaka_suou@live.jp</a>
   # Copyright of theme and framework
   copyright: false
-
 # --------------------------------------
 # Aside Settings
 # --------------------------------------
@@ -317,7 +319,15 @@ aside:
       link: https://discord.gg/KpCQJKSTYS
   card_announcement:
     enable: true
-    content: Start Your Japanese Journey for Free!
+    content: |
+      <h2 style="font-size: 1.4em; font-weight: bold;">About Us</h2>
+      <p style="margin: 0;">
+      ARK Network LLC<br>
+      Established in 2021<br>
+      Representative: Hiroyuki Ozawa<br>
+      Location: Kobayashi Mansion 206, 47-1 Nakacho, Kodaira City, Tokyo<br>
+      Email: <a href="mailto:hiroyukitanaka_suou@live.jp" style="color: #835151; text-decoration: underline;">hiroyukitanaka_suou@live.jp</a>
+      </p>
   card_recent_post:
     enable: false
     # If set 0 will show all
@@ -370,8 +380,8 @@ aside:
     order: -1
   card_webinfo:
     enable: false
-    post_count: true
-    last_push_date: true
+    post_count: false
+    last_push_date: false
     sort_order:
     # Time difference between publish date and now
     # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -387,7 +397,7 @@ rightside_bottom:
 
 # Conversion between Traditional and Simplified Chinese
 translate:
-  enable: false
+  enable: true
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
@@ -404,7 +414,7 @@ readmode: true
 
 # Dark Mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically

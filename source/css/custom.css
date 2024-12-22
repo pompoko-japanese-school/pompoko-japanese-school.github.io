@@ -90,6 +90,10 @@ nav .site-page {
     -webkit-line-clamp: 3;
 }
 
+#translateLink {
+    display: none !important;
+}
+
 /* スマホ画面用のスタイル */
 @media screen and (max-width: 768px) {
     #page-header #site-subtitle {
@@ -115,3 +119,9 @@ nav .site-page {
     }
   }
 
+
+  #aside-content .item-headline {
+    display: none;
+}
+
+  

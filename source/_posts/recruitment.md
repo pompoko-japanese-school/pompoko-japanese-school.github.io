@@ -1,7 +1,7 @@
 ---
 title: "Join Our Team"
 date: 2022-01-01
-cover: /img/pompokohime.jpg
+cover: /img/pompokohime_original.jpg
 type: "page"
 description: 
     •	Teach students worldwide <br>
@@ -17,7 +17,7 @@ description:
 
 ---
 
-{% asset_img pompokohime.png %}
+{% asset_img pompokohime.jpg %}
 
 Are you a certified Japanese teacher looking for a flexible and rewarding teaching opportunity? Pompoko Japanese School is expanding, and we’d love to have you on board!
 
