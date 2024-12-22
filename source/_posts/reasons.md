@@ -24,6 +24,20 @@ description:
 ## Certified and Professional Teachers
 All our teachers are native Japanese speakers with teaching certifications. We guarantee high-quality lessons to help you achieve your language goals.
 
+<div class="qualification-card">
+  <h3><i class="fas fa-user"></i> Tanaka Hiroyuki</h3>
+  <p>Certified Japanese Teacher</p>
+  <p>Over 10 years of teaching experience</p>
+  <p>Specialized in Business Japanese</p>
+</div>
+
+<div class="qualification-card">
+  <h3><i class="fas fa-user"></i> Yamada Akiko</h3>
+  <p>PhD in Linguistics</p>
+  <p>JLPT Preparation Specialist</p>
+  <p>Fluent in English and Korean</p>
+</div>
+
 ## Flexible Scheduling and Payments
 - Lessons can be scheduled based on your convenience.
 - Payment methods include WISE or bank transfers in Taiwan (USD/TWD).
