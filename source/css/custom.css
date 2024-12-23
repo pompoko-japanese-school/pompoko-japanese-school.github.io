@@ -124,4 +124,61 @@ nav .site-page {
     display: none;
 }
 
-  
+/* 親コンテナ */
+.qualification-container {
+    display: flex; /* 横並び */
+    flex-wrap: wrap; /* 幅が足りない場合に折り返す */
+    gap: 20px; /* カード間のスペース */
+    justify-content: flex-start; /* 左詰めで配置 */
+    padding: 20px; /* 親要素内の余白 */
+    background-color: #FFE4E1; /* 全体の背景色を薄いグレーに変更 */
+}
+
+/* 各カード */
+.qualification-card {
+    flex: 0 1 calc(33.33% - 20px); /* カードのサイズを3列レイアウトに合わせる */
+    max-width: calc(33.33% - 20px); /* カードの最大幅を設定 */
+    border: 1px solid #ddd; /* 枠線 */
+    border-radius: 10px; /* 角丸 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影を追加 */
+    text-align: center; /* 中央寄せ */
+    padding: 15px; /* 内側余白 */
+    background-color: #fff; /* 背景色 */
+    display: flex; /* フレックスで内部配置 */
+    flex-direction: column; /* 上下方向に整列 */
+    justify-content: space-between; /* 上下に適切な間隔 */
+    align-items: center; /* 中央揃え */
+}
+
+/* 画像のスタイル */
+.qualification-card img {
+    width: 100%; /* 親要素の幅に合わせる */
+    height: 200px; /* 高さを固定 */
+    object-fit: cover; /* 縦横比を無視して枠いっぱいに拡大 */
+    border-radius: 8px; /* 角丸をキープ */
+    margin-bottom: 10px; /* テキストとの間隔 */
+}
+
+/* テキスト部分 */
+.qualification-card h3 {
+    font-size: 1.2em; /* 見出しのサイズ */
+    margin-bottom: 8px; /* 下余白 */
+    color: #333; /* テキスト色 */
+}
+
+.qualification-card p {
+    font-size: 1em; /* テキストの標準サイズ */
+    color: #666; /* 読みやすい色 */
+    margin: 5px 0; /* 均等な余白 */
+}
+
+/* レスポンシブ対応 */
+@media screen and (max-width: 768px) {
+    .qualification-card {
+        flex: 1 1 100%; /* 1列レイアウト */
+        max-width: 100%; /* 幅制限を解除 */
+    }
+    .qualification-card img {
+        height: 150px; /* モバイル向けに画像を少し小さく */
+    }
+}

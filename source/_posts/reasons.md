@@ -23,19 +23,32 @@ description:
 
 ## Certified and Professional Teachers
 All our teachers are native Japanese speakers with teaching certifications. We guarantee high-quality lessons to help you achieve your language goals.
+<br>
+<div class="qualification-container">
+  <div class="qualification-card">
+    <h3><i class="fas fa-user"></i> Tanaka Mihoko</h3>
+    <p>Certified Japanese Teacher</p>
+    <p>Over 10 years of teaching experience</p>
+    <p>Specialized in Business Japanese</p>
+    {% asset_img tanakasensei.jpg %}
+  </div>
 
-<div class="qualification-card">
-  <h3><i class="fas fa-user"></i> Tanaka Hiroyuki</h3>
-  <p>Certified Japanese Teacher</p>
-  <p>Over 10 years of teaching experience</p>
-  <p>Specialized in Business Japanese</p>
-</div>
+  <div class="qualification-card">
+    <h3><i class="fas fa-user"></i> Ito Shoko</h3>
+    <p>Experienced in JLPT Preparation</p>
+    <p>7 years of teaching experience</p>
+    <p>Fluent in Chinese</p>
+    {% asset_img itousensei.jpg %}
+  </div>
 
-<div class="qualification-card">
-  <h3><i class="fas fa-user"></i> Yamada Akiko</h3>
-  <p>PhD in Linguistics</p>
-  <p>JLPT Preparation Specialist</p>
-  <p>Fluent in English and Korean</p>
+  <div class="qualification-card">
+    <h3><i class="fas fa-user"></i> Hara Norikazu</h3>
+    <p>Native Kansai Dialect Speaker</p>
+    <p>Specialized in Conversational Japanese</p>
+    <p>5 years of teaching experience</p>
+    {% asset_img harasensei1.jpg %}
+  </div>
+  
 </div>
 
 ## Flexible Scheduling and Payments
@@ -44,8 +57,6 @@ All our teachers are native Japanese speakers with teaching certifications. We g
 
 ## Personalized Learning Plans
 Each student receives a custom learning plan tailored to their goals, such as passing JLPT exams, understanding anime without subtitles, or working in Japan.
-
-![Teacher Certificate](path/to/teacher-certificate.jpg)
 
 ## Start Your Journey Today
 Our teachers will guide you every step of the way, ensuring your success and satisfaction.
