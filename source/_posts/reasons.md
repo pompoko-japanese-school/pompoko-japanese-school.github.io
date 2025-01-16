@@ -37,7 +37,6 @@ All our teachers are native Japanese speakers with teaching certifications. We g
     <h3><i class="fas fa-user"></i> Ito Shoko</h3>
     <p>Experienced in JLPT Preparation</p>
     <p>7 years of teaching experience</p>
-    <p>Fluent in Chinese</p>
     {% asset_img itousensei.jpg %}
   </div>
 
